@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on World Trending</title>
+    
+    
+    
+    <link>https://worldtrend.netlify.app/tags/</link>
+    <description>Recent content in Tags on World Trending</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>World Trending 2020</copyright>
+    
+	<atom:link href="https://worldtrend.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
