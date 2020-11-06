@@ -1,0 +1,8 @@
+User-agent: *
+
+Allow: /
+
+# Disallowed Sub-Directories
+Disallow: /categories/
+Disallow: /categories/uncategorized/
+Disallow: /tags/
