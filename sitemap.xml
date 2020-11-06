@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://worldtrend.netlify.app/posts/</loc>
-    <lastmod>2020-11-06T14:09:06+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://worldtrend.netlify.app/posts/test/</loc>
-    <lastmod>2020-11-06T14:09:06+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://worldtrend.netlify.app/</loc>
-    <lastmod>2020-11-06T14:09:06+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://worldtrend.netlify.app/privacy-policy/</loc>
     <lastmod>2020-11-06T11:39:32+07:00</lastmod>
   </url>
@@ -48,7 +33,17 @@
   </url>
   
   <url>
+    <loc>https://worldtrend.netlify.app/posts/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://worldtrend.netlify.app/categories/uncategorized/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://worldtrend.netlify.app/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
