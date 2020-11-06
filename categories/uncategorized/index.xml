@@ -1,119 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>World Trending</title>
+    <title>Uncategorized on World Trending</title>
     
     
     
-    <link>https://worldtrend.netlify.app/</link>
-    <description>Recent content on World Trending</description>
+    <link>https://worldtrend.netlify.app/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on World Trending</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>World Trending 2020</copyright>
-    <lastBuildDate>Fri, 06 Nov 2020 14:09:06 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://worldtrend.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://worldtrend.netlify.app/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test</title>
-      <link>https://worldtrend.netlify.app/posts/test/</link>
-      <pubDate>Fri, 06 Nov 2020 14:09:06 +0700</pubDate>
-      
-      <guid>https://worldtrend.netlify.app/posts/test/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          hello ini adalah test
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://worldtrend.netlify.app/privacy-policy/</link>
-      <pubDate>Fri, 06 Nov 2020 11:39:32 +0700</pubDate>
-      
-      <guid>https://worldtrend.netlify.app/privacy-policy/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Copyright</title>
-      <link>https://worldtrend.netlify.app/copyright/</link>
-      <pubDate>Fri, 06 Nov 2020 11:39:18 +0700</pubDate>
-      
-      <guid>https://worldtrend.netlify.app/copyright/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Dmca</title>
-      <link>https://worldtrend.netlify.app/dmca/</link>
-      <pubDate>Fri, 06 Nov 2020 11:39:09 +0700</pubDate>
-      
-      <guid>https://worldtrend.netlify.app/dmca/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://worldtrend.netlify.app/contact/</link>
-      <pubDate>Fri, 06 Nov 2020 11:38:57 +0700</pubDate>
-      
-      <guid>https://worldtrend.netlify.app/contact/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
     
     <item>
       <title>10&#43; Bidens Pilosa Uses Images</title>

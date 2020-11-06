@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://worldtrend.netlify.app/posts/</loc>
+    <lastmod>2020-11-06T14:09:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://worldtrend.netlify.app/posts/test/</loc>
+    <lastmod>2020-11-06T14:09:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://worldtrend.netlify.app/</loc>
+    <lastmod>2020-11-06T14:09:06+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://worldtrend.netlify.app/privacy-policy/</loc>
     <lastmod>2020-11-06T11:39:32+07:00</lastmod>
   </url>
@@ -23,15 +38,37 @@
   </url>
   
   <url>
+    <loc>https://worldtrend.netlify.app/posts/10-bidens-pilosa-uses-images/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://worldtrend.netlify.app/categories/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://worldtrend.netlify.app/categories/uncategorized/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://worldtrend.netlify.app/posts/10-dac-cu-tong-thong-my-background/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://worldtrend.netlify.app/posts/10-ket-qua-bo-phieu-tong-thong-my-pictures/</loc>
+    <lastmod>2020-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://worldtrend.netlify.app/posts/10-my-nhan-co-trang-trong-tranh-pictures/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://worldtrend.netlify.app/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://worldtrend.netlify.app/</loc>
   </url>
   
 </urlset>
