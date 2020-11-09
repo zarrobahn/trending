@@ -1,8 +1,10 @@
 User-agent: *
 
-Allow: /
-
 # Disallowed Sub-Directories
 Disallow: /categories/
 Disallow: /categories/uncategorized/
 Disallow: /tags/
+
+
+
+Sitemap: https://worldtrend.netlify.app/sitemap.xml
